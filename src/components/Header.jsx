@@ -11,7 +11,7 @@ export default function Header({ isDarkMode, toggleDarkMode }) {
                         </div>
                         <div>
                             <h1 className="text-3xl font-bold text-white">
-                                Mini Code Copilot
+                                Open Code AI
                             </h1>
                             <p className="text-sm text-indigo-100 mt-1">
                                 Your AI-powered coding assistant

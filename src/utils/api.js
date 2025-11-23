@@ -9,7 +9,7 @@ const openRouter = new OpenRouter({
     apiKey: import.meta.env.VITE_OPENROUTER_API_KEY,
     defaultHeaders: {
         'HTTP-Referer': 'http://localhost:5173',
-        'X-Title': 'Mini Code Copilot',
+        'X-Title': 'Open Code AI',
     },
 });
 
