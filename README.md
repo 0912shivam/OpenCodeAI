@@ -1,4 +1,4 @@
-# Mini Code Copilot
+# OPEN CODE AI
 
 A modern, AI-powered code generation assistant built with React. Generate code snippets in multiple programming languages with a beautiful, feature-rich interface.
 
